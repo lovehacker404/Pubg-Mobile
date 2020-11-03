@@ -33,6 +33,4 @@ https://drive.google.com/file/d/1Y3H9E7phvlMUgaJRBZD9BGuzQRwhlQeJ/view?usp=drive
 ## CONNECT WITH US :
 
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/black.mafia.xx)
-<a href="https://rebrand.ly/githubprof"><img title="Github" src="https://img.shields.io/badge/lovehackers404-brightgreen?style=for-the-badge&logo=github"></a>
 [![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100042596717506)
-<a href="https://rebrand.ly/BlackMafia"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Black Mafia-red?style=for-the-badge&logo=Youtube"></a>
