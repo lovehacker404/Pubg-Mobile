@@ -1,7 +1,7 @@
 # Pubg-Mobile
 ![](https://img.shields.io/badge/lovehacker404-BlackMafia-orange?style=for-the-badge&logo=python.svg) 
 <p align="center">
-<img src="blackmafia21.jpg">
+<img src="blackmafia21.png">
 <a href="#"><img title="Made in Pakistan" src="https://img.shields.io/badge/MADE%20IN-Pakistan-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
@@ -13,7 +13,7 @@
 <a href="#"><img title="WhatsApp Num" src="https://img.shields.io/badge/WhatsApp%20Num-03094161457-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<img src="blackmafia22.gif">
+<img src="blackmafia22.jpg">
 <p align="center">
 <p align="center">
 <a href="https://github.com/lovehacker404"><img title="Author" src="https://img.shields.io/badge/Author-lovehacker404-red.svg?style=for-the-badge&logo=github"></a>
